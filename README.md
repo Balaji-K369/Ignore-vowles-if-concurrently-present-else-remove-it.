@@ -1,1 +1,1 @@
-# Ignore-vowles-if-concurrently-present-else-remove-it.
+# This program that will take one string as input. The program will then remove vowels a, e, i, o, and u (in lower or upper case ) from the string. If there are two or more vowels that occur together then the program shall ignore all of those vowels.
